@@ -1,6 +1,6 @@
 # Data Visualization with Python
 
-![Data Visualization](https://github.com/your_username/data-visualization-python/blob/main/images/visualization_image.jpg)
+<!-- ![Data Visualization](https://github.com/your_username/data-visualization-python/blob/main/images/visualization_image.jpg) -->
 
 This repository is dedicated to showcasing various data visualization techniques using the Python programming language. Data visualization plays a crucial role in understanding and communicating insights from complex datasets. This project serves as a resource for learning and exploring different visualization libraries and tools.
 
