@@ -31,7 +31,7 @@ However, the initial configuration of cells on the grid may not lead to a stable
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/data-visualization-python.git
+   git clone https://github.com/Dharmendra123rj/Visualisation
    cd data-visualization-python
    ```
 
